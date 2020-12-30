@@ -2,4 +2,8 @@ Recipes1
 Recipes2
 Recipes3
 Recipes4
+<<<<<<< HEAD
 Recipes6
+=======
+Recipes5
+>>>>>>> hardBranch
